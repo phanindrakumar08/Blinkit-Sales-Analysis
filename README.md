@@ -1,4 +1,4 @@
-# Blinkit-Sales-Analysis
+# Blinkit Sales Analysis
 
 ![Blinkit](https://github.com/user-attachments/assets/149e9ce9-dccd-4557-bced-742de2305a8c)
 
